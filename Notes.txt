@@ -6,4 +6,6 @@ Commands
 5. git restore 
 6. git push origin master 
 
-local --> <i class="fa fa-" aria-hidden="true"></i>
+local --> github 
+github--> github 
+github --> local
