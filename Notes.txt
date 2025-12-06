@@ -3,4 +3,7 @@ Commands
 2. git status 
 3. git add 
 4. git commit -m "comment" 
-5. hit restore 
+5. git restore 
+6. git push origin master 
+
+local --> <i class="fa fa-" aria-hidden="true"></i>
